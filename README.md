@@ -1,6 +1,6 @@
 # Egide-Legal
 
-Documentos legais de **Égide** (`com.uaigames.egide`) — publicados via GitHub Pages.
+Documentos legais de **Crystalhold** (`com.uaigames.egide`) — publicados via GitHub Pages.
 
 > ⚠️ **NÃO EDITE OS HTML DIRETAMENTE.** Este repositório é **gerado** por
 > `Python/legalkit/generate.py` do `NoGamingKit`. Edição manual some na próxima
